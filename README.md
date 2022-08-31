@@ -14,7 +14,7 @@
 
 ### 🏆 GitHub Profile Trophy:
 <a href="trophy indeed a yes">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Stardustxxx&column=8&theme=juicyfresh&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=DeathGmaerz&column=8&theme=juicyfresh&no-frame=true&no-bg=true"/>
 </a>
 
 ---
