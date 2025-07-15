@@ -14,7 +14,7 @@
 
 ### 🏆 GitHub Profile Trophy:
 <a href="trophy indeed a yes">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=DeathGmaerz&column=8&theme=juicyfresh&no-frame=true&no-bg=true"/>
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=rootSTARYYY&column=8&theme=juicyfresh&no-frame=true&no-bg=true"/>
 </a>
 
 ---
@@ -29,7 +29,7 @@
 ---
 
 ### Discord Pressence
-[![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/845887110225592350)
+[![Discord Presence](https://lanyard.cnrad.dev/api/845887110225592350?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/845887110225592350)
 
 ---
 
