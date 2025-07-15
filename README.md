@@ -29,7 +29,7 @@
 ---
 
 ### Discord Pressence
-[![Discord Presence](https://lanyard.cnrad.dev/api/845887110225592350?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/845887110225592350)
+[![Discord Presence](https://lanyard.cnrad.dev/api/845887110225592350?showDisplayName=true&idleMessage=probably%20doing%20something!)](https://discord.com/users/845887110225592350)
 
 ---
 
