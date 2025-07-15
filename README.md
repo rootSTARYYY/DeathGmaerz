@@ -22,14 +22,14 @@
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rootST4RYYY&show_icons=true&hide_border=true&theme=react&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeathGmaerz&exclude_repo=KNN-Image-Classification&show_icons=true&theme=react&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rootSTARYYY&show_icons=true&hide_border=true&theme=react&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootSTARYYY&exclude_repo=KNN-Image-Classification&show_icons=true&theme=react&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ---
 
 ### Discord Pressence
-[![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/484318483258015754)
+[![Discord Presence](https://lanyard.cnrad.dev/api/484318483258015754?theme=dark&animated=true&hideDiscrim=false&borderRadius=30px)](https://discord.com/users/845887110225592350)
 
 ---
 
